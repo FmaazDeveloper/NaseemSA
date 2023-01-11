@@ -25,7 +25,7 @@
         -webkit-appearance: none;
     }
     </style>
-    
+    <link rel="website icon" type="png" href="assistances/images/log1.png">
 </head>
     <?php
         session_start();
